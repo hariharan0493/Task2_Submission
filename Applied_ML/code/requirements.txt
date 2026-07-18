@@ -1,0 +1,10 @@
+chromadb
+google-genai
+google-api-core
+python-dotenv
+pypdf
+sentence-transformers
+langchain-text-splitters
+pandas
+sentence_transformers
+streamlit
