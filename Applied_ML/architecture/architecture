@@ -1,1 +1,26 @@
-
+```text
+Medical Documents
+        │
+        ▼
+Text Extraction
+        │
+        ▼
+Chunking
+        │
+        ▼
+Embedding Generation
+        │
+        ▼
+Vector Database (ChromaDB)
+        │
+        ▼
+Similarity Search
+        │
+        ▼
+Retrieved Context
+        │
+        ▼
+Gemini
+        │
+        ▼
+Grounded Response + Citations
