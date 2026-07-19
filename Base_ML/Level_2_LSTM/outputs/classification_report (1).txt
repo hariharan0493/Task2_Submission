@@ -1,0 +1,10 @@
+              precision    recall  f1-score   support
+
+    Freezing       0.74      0.74      0.74     16356
+        Cold       0.80      0.82      0.81     55746
+    Moderate       0.80      0.78      0.79     59538
+        Warm       0.83      0.84      0.84     36264
+
+    accuracy                           0.80    167904
+   macro avg       0.79      0.79      0.79    167904
+weighted avg       0.80      0.80      0.80    167904
