@@ -18,8 +18,8 @@ graph TD
     subgraph RAG["Retrieval & Generation"]
         D["Streamlit UI"]
         E["Query Embedding"]
-        F["Retrieval Module"]
-        G["Prompt Engine<br/>Context + Safety + Instructions"]
+        F["Retrieval"]
+        G["Prompt Engine<br/>Context + Safety Instructions"]
         H["LLM<br/>Gemini 2.5 Flash"]
     end
 
